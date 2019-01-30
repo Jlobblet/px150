@@ -1,0 +1,1 @@
+odd_np = lambda num : np.arange(1,num+1,2)

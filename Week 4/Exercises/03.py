@@ -1,0 +1,1 @@
+test_for_one = lambda array : array == 1

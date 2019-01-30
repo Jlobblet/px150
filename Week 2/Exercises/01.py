@@ -1,0 +1,1 @@
+absolute_value = lambda val : abs(val)

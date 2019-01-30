@@ -1,0 +1,1 @@
+square_np = lambda array : array ** 2
